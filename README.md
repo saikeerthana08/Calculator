@@ -1,6 +1,6 @@
 # TXON-2
 
-In this project, I build an **Calculator**.
+In this project, I build a **Calculator**.
 
 ### Refer to the image below:
 
